@@ -1,1 +1,1 @@
-# Rating-Component
+# Rating Component
