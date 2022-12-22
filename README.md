@@ -1,6 +1,6 @@
 Interactive rating component
 ## Welcome! 👋
-
+This is a interactive rating component which we can see mostly on every website we use. I used HTML, CSS and a little bit of JavaScript to complete this challenge by The Frontend Mentor.
 Thanks for checking out this front-end coding challenge.
 
 ## The challenge
